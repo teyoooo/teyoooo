@@ -1,6 +1,8 @@
-<h2 align="center">HELLO CRUEL WORLD :></h2>
-
 ###
+
+<div align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3000&pause=1000&lines=Hello+Cruel+World!;Welcome+to+My+Profile!;Enjoy+Exploring+%3A%3E" />
+</div>
 
 <div align="center">
   <img height="200" src="https://i.imgur.com/NUMg8RC.gif"  />
